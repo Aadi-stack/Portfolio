@@ -70,7 +70,7 @@ ture Engineering, Training, test, Model building, cluster.
 - [Basic Image Classification with TensorFlow by Coursera](https://www.coursera.org/account/accomplishments/verify/6WQ257CSFMVE)
 
 # Blog
--[Intro to Deep learning](https://medium.com/@aaditshukla98710/introduction-to-deep-learning-ec4d92acfeab)
--[Overfitting and Underfitting](https://medium.com/@aaditshukla98710/overfitting-and-underfitting-4d20bae5939e)
--[Perceptron in Deep learning](https://medium.com/@aaditshukla98710/perceptron-in-deep-learning-733600050774)
--[Balanced and Imbalanced dataset](https://medium.com/@aaditshukla98710/balanced-and-imbalanced-dataset-b6a7ced2dea3)
+- [Intro to Deep learning](https://medium.com/@aaditshukla98710/introduction-to-deep-learning-ec4d92acfeab)
+- [Overfitting and Underfitting](https://medium.com/@aaditshukla98710/overfitting-and-underfitting-4d20bae5939e)
+- [Perceptron in Deep learning](https://medium.com/@aaditshukla98710/perceptron-in-deep-learning-733600050774)
+- [Balanced and Imbalanced dataset](https://medium.com/@aaditshukla98710/balanced-and-imbalanced-dataset-b6a7ced2dea3)
