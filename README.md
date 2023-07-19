@@ -1,14 +1,18 @@
 Data Science Portfolio - Aadit Shukla
-I have an experience in the field of data analysis, Machine learning. I am a student from Punjab. I currently work in Machine learning - Document Image classification at Ineuron.ai as Intern for Data preparation, Data Visualization, and Feature engineering including Model Building. I was previously a Data Analyst at Chandigarh as an intern with contributions identifying and collecting the data to be analyzed, Cleaning the data in preparation for analysis, Analyzing the data, and technical skills- Database Management, Programming Languages, and Data Visualization, including Statistics and Math. Leveraging my solid foundation in programming and my ability to extract valuable insights from data
-Proficient in machine learning algorithms, Python, SQL, and data analysis, I am ready to contribute to cutting-edge projects, collaborate with cross-functional teams, and drive innovation in the field of machine learning.
-I have a keen interest in computer programming, machine learning, and Data Science.
-Highly interested in Sports Analytics. I would love to spend my career combining data science with sports.
-Love Cricket and video games.
+
+
+I have an experience in the field of data analysis, Machine learning. I am a student from Punjab. I currently work in Machine learning - Document Image classification at Ineuron.ai as Intern for Data preparation, Data Visualization, and Feature engineering including Model Building. I was previously a Data Analyst at Chandigarh as an intern with contributions identifying and collecting the data to be analyzed, Cleaning the data in preparation for analysis, Analyzing the data, and technical skills- Database Management, Programming Languages, and Data Visualization, including Statistics and Math. Leveraging my solid foundation in programming and my ability to extract valuable insights from data. Proficient in machine learning algorithms, Python, SQL, and data analysis, I am ready to contribute to cutting-edge projects, collaborate with cross-functional teams, and drive innovation in the field of machine learning.
+I have a keen interest in computer programming, machine learning, and Data Science. Highly interested in Sports Analytics. I would love to spend my career combining data science with sports. Love Cricket and video games.
+
+
 
 Email: aaditshukla98710@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/aaditshukla/
 
+
 Projects
+
 Plant Classification using Deep Learning
 
 • Developed a deep learning model for plant classification using convolutional neural networks (CNN). Trained the
@@ -22,6 +26,7 @@ experiments, and results.Confidence: Completed the project with utmost confidenc
 model’s accuracy and performance.
 
 BIKE SHARING PREDICTION
+
 
 • Prototype Selection, Prototype Development, Business Modeling, Financial Modelling (equation).
 • Machine Learning, Data Analysis, Skills -Python, Numpy, Pandas, Data Analysis, EDA, Scikit- Learn, and Machine Learning References on Business Models.
