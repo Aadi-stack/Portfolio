@@ -18,7 +18,9 @@ I have a keen interest in computer programming, machine learning, and Data Scien
 
 # Projects
 
-## Plant Classification using Deep Learning
+
+
+<img align="left" width="250" height="150" src="https://github.com/Aadi-stack/Portfolio/blob/main/assests/The-Classification-Of-Plants.png"> **[Plant Classification using Deep Learning](https://github.com/Aadi-stack/Deep-Learning-Projects/tree/main/Plant%20Classification)**
 
 • Developed a deep learning model for plant classification using convolutional neural networks (CNN). Trained the
 model on a large dataset of plant images, implementing data augmentation techniques to improve performance and
@@ -30,12 +32,13 @@ metrics and conducted cross-validation to ensure robustness. Documented the proj
 experiments, and results.Confidence: Completed the project with utmost confidence, achieving a 100% belief in the
 model’s accuracy and performance.
 
-## BIKE SHARING PREDICTION
+
+<img align="left" width="250" height="150" src="https://github.com/Aadi-stack/Portfolio/blob/main/assests/bke.jpeg"> **[BIKE SHARING PREDICTION](https://github.com/Aadi-stack/Machine-Learning--Projects/tree/main/Bike%20Sharing%20Demand)**
 
 • Prototype Selection, Prototype Development, Business Modeling, Financial Modelling (equation).
 • Machine Learning, Data Analysis, Skills -Python, Numpy, Pandas, Data Analysis, EDA, Scikit- Learn, and Machine Learning References on Business Models.
 
-## MCDONALDS CASE STUDY
+<img align="left" width="250" height="150" src="https://github.com/Aadi-stack/Portfolio/blob/main/assests/download.jpeg"> **[MCDONALDS CASE STUDY](https://github.com/Aadi-stack/Machine-Learning--Projects/tree/main/Market%20Segmentation%20Mcdonalds)**
 
 • Understand the fundamentals of Market Segmentation.
 • Market Domain (for eg: Tea Market, Real Estate Market, Electronic Vehicle Market, etc.) to perform
@@ -44,7 +47,9 @@ Segmentation.
 • Steps Involved: Library, Statistics Analysis, Data Cleaning, data preprocessing, Data Visualization, Fea-
 ture Engineering, Training, test, Model building, cluster.
 
-## Big Mart Sales Prediction
+
+
+<img align="left" width="250" height="150" src="https://github.com/Aadi-stack/Portfolio/blob/main/assests/bigmart.jpeg"> **[ Big Mart Sales Prediction](https://github.com/Aadi-stack/Machine-Learning--Projects/tree/main/BIg%20Mart%20Sales%20Prediction)**
 
 .During the 2-month internship as a Machine Learning Intern, I actively engaged in various tasks and gained valuable skills in Python programming, Machine Learning, Architecture Design, LLD (Low-Level Design), Wireframe Design, and DPR (Detailed Project Report) creation.
 .As an intern, I had the opportunity to work on an exciting project focused on Big Mart Sales Prediction using Machine Learning. Within this project, To develop a robust model that achieved an impressive accuracy range of 80% - 85%.
