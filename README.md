@@ -1,4 +1,7 @@
+
+
 Data Science Portfolio - Aadit Shukla
+
 
 
 I have an experience in the field of data analysis, Machine learning. I am a student from Punjab. I currently work in Machine learning - Document Image classification at Ineuron.ai as Intern for Data preparation, Data Visualization, and Feature engineering including Model Building. I was previously a Data Analyst at Chandigarh as an intern with contributions identifying and collecting the data to be analyzed, Cleaning the data in preparation for analysis, Analyzing the data, and technical skills- Database Management, Programming Languages, and Data Visualization, including Statistics and Math. Leveraging my solid foundation in programming and my ability to extract valuable insights from data. Proficient in machine learning algorithms, Python, SQL, and data analysis, I am ready to contribute to cutting-edge projects, collaborate with cross-functional teams, and drive innovation in the field of machine learning.
