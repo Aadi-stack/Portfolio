@@ -1,45 +1,56 @@
-# Portfolio
-Portfolio
-                                                                            
+Data Scientist
+Technical Skills: Python, SQL, AWS
+Education
+Ph.D., Physics | The University of Texas at Dallas (May 2022)
+M.S., Physics | The University of Texas at Dallas (December 2019)
+B.S., Physics | The University of Texas at Dallas (May 2017)
+Work Experience
+Data Scientist @ Toyota Financial Services (June 2022 - Present)
 
+Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
+Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+Data Science Consultant @ Shawhin Talebi Ventures LLC (December 2020 - Present)
 
+Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
+Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+Projects
+Data-Driven EEG Band Discovery with Decision Trees
+Publication
 
-<h1 align="center">Hi 👋, I'm Aadit Shukla</h1>
-<h1 align="center">I have an experience in the field of data analysis, Machine learning. I am a student from Punjab. I currently work in Machine learning - Document Image classification at Ineuron.ai as Intern for Data preparation, Data Visualization, and Feature engineering including Model Building. I was previously a Data Analyst at Chandigarh as an intern with contributions identifying and collecting the data to be analyzed, Cleaning the data in preparation for analysis, Analyzing the data, and technical skills- Database Management, Programming Languages, and Data Visualization, including Statistics and Math. Leveraging my solid foundation in programming and my ability to extract valuable insights from data
-Proficient in machine learning algorithms, Python, SQL, and data analysis, I am ready to contribute to cutting-edge projects, collaborate with cross-functional teams, and drive innovation in the field of machine learning.
-I have a keen interest in computer programming, machine learning, and Data Science.
-Highly interested in Sports Analytics. I would love to spend my career combining data science with sports.
-Love Cricket and video games.</h1>
-<div id="badges" align="left">
-  <img src="https://komarev.com/ghpvc/?username=your-github-aaditshukla98710&color=blueviolet" alt=""/>
- </div>
+Developed objective strategy for discovering optimal EEG bands based on signal power spectra using Python. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
 
+EEG Band Discovery
 
-<h3 align="center">I’m currently learning Machine Learning/Deep Learning/NLP/Computer Vision</h3>
+Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
+Publication
 
+Used Matlab to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
 
+Bike Study
 
+Talks & Lectures
+Causality: The new science of an old question - GSP Seminar, Fall 2021
 
+Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
 
-- 👨‍💻 All of my projects are available at [https://github.com/aaditshukla98710](https://github.com/aaditshukla98710)
+Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
 
-- 📝 I regularly write articles on [https://medium.com/@aaditshukla98710](https://medium.com/@aaditshukla98710)
+A Brief Introduction to Optimization - GSP Seminar, Fall 2019
 
-- 📫 How to reach me **aaditshukla98710@gmail.com**
+Weeks of Welcome Poster Competition - UTD, Fall 2019
 
-- ⚡ Fun fact **I love watching and playing cricket, and chess**
+A Brief Introduction to Networks - GSP Seminar, Spring 2019
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/aadit_shukla" height="30" width="40" /></
-  
-<a href="https://linkedin.com/in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aaditshukla/" height="30" width="40" /></a>
+Data Science YouTube
 
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/18587551/aadit-shukla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/18587551/aadit-shukla" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/aaditshukla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/aaditshukla" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/aaditshukla98710/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/aaditshukla98710/" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
+Publications
+Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
+Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
+Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
+Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
+Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
+Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
+Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
+Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
+Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
+Data Science Blog
