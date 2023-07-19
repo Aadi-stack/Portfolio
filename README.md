@@ -1,6 +1,6 @@
 
 
-Data Science Portfolio - Aadit Shukla
+# Data Science Portfolio - Aadit Shukla
 
 
 
@@ -9,14 +9,14 @@ I have a keen interest in computer programming, machine learning, and Data Scien
 
 
 
-Email: aaditshukla98710@gmail.com
+- **Email**: aaditshukla98710@gmail.com
 
-LinkedIn: https://www.linkedin.com/in/aaditshukla/
+- **LinkedIn**: https://www.linkedin.com/in/aaditshukla/
 
 
-Projects
+ # Projects
 
-Plant Classification using Deep Learning
+## Plant Classification using Deep Learning
 
 • Developed a deep learning model for plant classification using convolutional neural networks (CNN). Trained the
 model on a large dataset of plant images, implementing data augmentation techniques to improve performance and
@@ -28,13 +28,12 @@ metrics and conducted cross-validation to ensure robustness. Documented the proj
 experiments, and results.Confidence: Completed the project with utmost confidence, achieving a 100% belief in the
 model’s accuracy and performance.
 
-BIKE SHARING PREDICTION
-
+## BIKE SHARING PREDICTION
 
 • Prototype Selection, Prototype Development, Business Modeling, Financial Modelling (equation).
 • Machine Learning, Data Analysis, Skills -Python, Numpy, Pandas, Data Analysis, EDA, Scikit- Learn, and Machine Learning References on Business Models.
 
-MCDONALDS CASE STUDY
+## MCDONALDS CASE STUDY
 
 • Understand the fundamentals of Market Segmentation.
 • Market Domain (for eg: Tea Market, Real Estate Market, Electronic Vehicle Market, etc.) to perform
@@ -43,34 +42,29 @@ Segmentation.
 • Steps Involved: Library, Statistics Analysis, Data Cleaning, data preprocessing, Data Visualization, Fea-
 ture Engineering, Training, test, Model building, cluster.
 
-Big Mart Sales Prediction
+## Big Mart Sales Prediction
 
 .During the 2-month internship as a Machine Learning Intern, I actively engaged in various tasks and gained valuable skills in Python programming, Machine Learning, Architecture Design, LLD (Low-Level Design), Wireframe Design, and DPR (Detailed Project Report) creation.
 .As an intern, I had the opportunity to work on an exciting project focused on Big Mart Sales Prediction using Machine Learning. Within this project, To develop a robust model that achieved an impressive accuracy range of 80% - 85%.
 
-Core Competencies
+## Core Competencies
 
-Methodologies: Machine Learning, Deep Learning, Time Series Analysis, Natural Language Processing, Statistics, Explainable AI, A/B Testing and Experimentation Design, Big Data Analytics
-
-
-Languages: Python (Pandas, Numpy, Scikit-Learn, Scipy, Keras, Matplotlib) SQL, C++
+- **Methodologies: Machine Learning, Deep Learning, Time Series Analysis, Natural Language Processing, Statistics, Explainable AI, A/B Testing and Experimentation Design, Big Data Analytics
 
 
-Tools: MySQL, Power bi, Git, Amazon Web Services (AWS), Flask, MS Excel
+- **Languages: Python (Pandas, Numpy, Scikit-Learn, Scipy, Keras, Matplotlib) SQL, C++
 
 
-Certificates
-
-Machine Learning A-Z™: Hands-On Python R In Data Science by  Udemy 
-
-Foundations: Data, Data, Everywhere from Google Data Analytics by Coursera
-
-Intro to Deep Learning by Kaggle
-
-Intro to Machine Learning by Kaggle
-
-Machine Learning pipelines with Azure ML Studio by Coursera
-
-Basic Image Classification with Tensorflow by Coursera
+- **Tools: MySQL, Power bi, Git, Amazon Web Services (AWS), Flask, MS Excel
 
 
+
+## Certificates
+
+- [Machine Learning A-Z™: Hands-On Python R In Data Science by  Udemy](https://www.udemy.com/certificate/UC-8da920b4-f530-48aa-929c-3660bcbed91e/)
+- [Foundations: Data, Data, Everywhere from Google Data Analytics by Coursera](https://www.coursera.org/account/accomplishments/verify/WSAPA5LQ3JRB)
+- [Intro to Machine learning by kaggle](https://www.kaggle.com/learn/certification/aaditshukla/intro-to-machine-learning)
+- [Intro to Deep learning by Kaggle](https://www.kaggle.com/learn/certification/aaditshukla/intro-to-deep-learning)
+- [Machine Learning pipelines with Azure ML Studio by Coursera](https://www.coursera.org/account/accomplishments/verify/ZP2HQZFQNAMP)
+- [Basic Image Classification with TensorFlow by Coursera](https://www.coursera.org/account/accomplishments/verify/6WQ257CSFMVE)
+- 
