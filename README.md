@@ -50,13 +50,13 @@ ture Engineering, Training, test, Model building, cluster.
 
 ## Core Competencies
 
-- **Methodologies: Machine Learning, Deep Learning, Time Series Analysis, Natural Language Processing, Statistics, Explainable AI, A/B Testing and Experimentation Design, Big Data Analytics
+- Methodologies: Machine Learning, Deep Learning, Time Series Analysis, Natural Language Processing, Statistics, Explainable AI, A/B Testing and Experimentation Design, Big Data Analytics
 
 
-- **Languages: Python (Pandas, Numpy, Scikit-Learn, Scipy, Keras, Matplotlib) SQL, C++
+- Languages: Python (Pandas, Numpy, Scikit-Learn, Scipy, Keras, Matplotlib) SQL, C++
 
 
-- **Tools: MySQL, Power bi, Git, Amazon Web Services (AWS), Flask, MS Excel
+- Tools: MySQL, Power bi, Git, Amazon Web Services (AWS), Flask, MS Excel
 
 
 
