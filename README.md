@@ -12,6 +12,7 @@ I have a keen interest in computer programming, machine learning, and Data Scien
 - **Email**: aaditshukla98710@gmail.com
 
 - **LinkedIn**: https://www.linkedin.com/in/aaditshukla/
+-  **Blog**: https://medium.com/@aaditshukla98710
 
 
  # Projects
@@ -63,8 +64,13 @@ ture Engineering, Training, test, Model building, cluster.
 
 - [Machine Learning A-Z™: Hands-On Python R In Data Science by  Udemy](https://www.udemy.com/certificate/UC-8da920b4-f530-48aa-929c-3660bcbed91e/)
 - [Foundations: Data, Data, Everywhere from Google Data Analytics by Coursera](https://www.coursera.org/account/accomplishments/verify/WSAPA5LQ3JRB)
-- [Intro to Machine learning by kaggle](https://www.kaggle.com/learn/certification/aaditshukla/intro-to-machine-learning)
-- [Intro to Deep learning by Kaggle](https://www.kaggle.com/learn/certification/aaditshukla/intro-to-deep-learning)
+- [Intro to Machine learning by Kaggle](https://www.kaggle.com/learn/certification/aaditshukla/intro-to-machine-learning)
+- [Intro to Deep Learning by Kaggle](https://www.kaggle.com/learn/certification/aaditshukla/intro-to-deep-learning)
 - [Machine Learning pipelines with Azure ML Studio by Coursera](https://www.coursera.org/account/accomplishments/verify/ZP2HQZFQNAMP)
 - [Basic Image Classification with TensorFlow by Coursera](https://www.coursera.org/account/accomplishments/verify/6WQ257CSFMVE)
-- 
+
+# Blog
+-[Intro to Deep learning](https://medium.com/@aaditshukla98710/introduction-to-deep-learning-ec4d92acfeab)
+-[Overfitting and Underfitting](https://medium.com/@aaditshukla98710/overfitting-and-underfitting-4d20bae5939e)
+-[Perceptron in Deep learning](https://medium.com/@aaditshukla98710/perceptron-in-deep-learning-733600050774)
+-[Balanced and Imbalanced dataset][https://medium.com/@aaditshukla98710/balanced-and-imbalanced-dataset-b6a7ced2dea3)
