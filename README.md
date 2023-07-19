@@ -48,13 +48,26 @@ Big Mart Sales Prediction
 Core Competencies
 
 Methodologies: Machine Learning, Deep Learning, Time Series Analysis, Natural Language Processing, Statistics, Explainable AI, A/B Testing and Experimentation Design, Big Data Analytics
+
+
 Languages: Python (Pandas, Numpy, Scikit-Learn, Scipy, Keras, Matplotlib) SQL, C++
+
+
 Tools: MySQL, Power bi, Git, Amazon Web Services (AWS), Flask, MS Excel
+
+
 Certificates
+
 Machine Learning A-Z™: Hands-On Python R In Data Science by  Udemy 
+
 Foundations: Data, Data, Everywhere from Google Data Analytics by Coursera
+
 Intro to Deep Learning by Kaggle
+
 Intro to Machine Learning by Kaggle
+
 Machine Learning pipelines with Azure ML Studio by Coursera
+
 Basic Image Classification with Tensorflow by Coursera
+
 
