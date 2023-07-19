@@ -9,10 +9,11 @@ I have a keen interest in computer programming, machine learning, and Data Scien
 
 
 
-- **Email**: aaditshukla98710@gmail.com
+- **Email**:aaditshukla98710@gmail.com
 
-- **LinkedIn**: https://www.linkedin.com/in/aaditshukla/
--  **Blog**: https://medium.com/@aaditshukla98710
+- **LinkedIn** :https://www.linkedin.com/in/aaditshukla/
+- 
+-  **Blog** :https://medium.com/@aaditshukla98710
 
 
  # Projects
